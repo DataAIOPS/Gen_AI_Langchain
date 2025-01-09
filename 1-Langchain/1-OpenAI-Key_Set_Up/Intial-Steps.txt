@@ -1,0 +1,11 @@
+## generate OPENAI API key 
+1. Go to https://platform.openai.com and generate your first API (optional)
+2. Got to https://platform.openai.com/settings/organization/billing/overview and add minimum $5 credit
+3. After adding credit generate new API key by going here https://platform.openai.com/api-keys
+4. Save this API key in local system and do not share with anyone
+
+
+## Langchain
+1. Go to https://www.langchain.com/ and sing up 
+2. generate API key
+3. Store that API key

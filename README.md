@@ -14,3 +14,8 @@
 
 ## Install dependencies using requirments.txt
 - pip install -r requirments.txt
+
+## Create .env file and update all your keys in
+
+### 1- Test the initial set up
+python 1-Langchain/1-OpenAI-Key_Set_Up/test_setup.py 

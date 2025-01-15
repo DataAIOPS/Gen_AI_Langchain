@@ -1,8 +1,8 @@
 ### Creating Virtual Environment
 
 ### Using Conda
-- conda create -n myenv python=3.10 
-- conda activate myenv
+- conda create -n myenv_new python=3.10 
+- conda activate myenv_new
 - conda deactivate
 
 ### Using VENV

@@ -1,0 +1,14 @@
+{'chat_1': InMemoryChatMessageHistory(messages=[]), 
+'chat_2': InMemoryChatMessageHistory(messages=[HumanMessage(content='Hi my name is Rahul and I am a Indian', 
+additional_kwargs={}, response_metadata={}), 
+AIMessage(content="Hello Rahul, it's nice to meet you!\n\nI'm glad to know you're from India.  
+Is there anything I can help you with today?  Perhaps you'd like to:\n\n* **Learn about Indian culture?**\n* 
+**Get information about a specific place in India?**\n* **Translate something into Hindi?**\n* **Just chat?** 
+\n\n\nLet me know what's on your mind! 😊 \n\n", additional_kwargs={}, 
+response_metadata={'token_usage': {'completion_tokens': 99, 'prompt_tokens': 19, 'total_tokens': 118, 'completion_time': 0.18, 
+'prompt_time': 7.762e-05, 'queue_time': 0.02064663, 'total_time': 0.18007762}, 'model_name': 'Gemma2-9b-It', 
+'system_fingerprint': 'fp_10c08bf97d', 'finish_reason': 'stop', 'logprobs': None}, 
+id='run-26aca7ce-41c3-49e8-af08-785c90845fb9-0', 
+usage_metadata={'input_tokens': 19, 'output_tokens': 99, 'total_tokens': 118})])}
+
+{'chat_1': InMemoryChatMessageHistory(messages=[]), 'chat_2': InMemoryChatMessageHistory(messages=[HumanMessage(content='Hi my name is Rahul and I am a Indian', additional_kwargs={}, response_metadata={}), AIMessage(content="Hello Rahul, it's nice to meet you!\n\nI'm glad to know you're from India.  Is there anything I can help you with today?  Perhaps you'd like to:\n\n* **Learn about Indian culture?**\n* **Get information about a specific place in India?**\n* **Translate something into Hindi?**\n* **Just chat?** \n\n\nLet me know what's on your mind! 😊 \n\n", additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 99, 'prompt_tokens': 19, 'total_tokens': 118, 'completion_time': 0.18, 'prompt_time': 7.762e-05, 'queue_time': 0.02064663, 'total_time': 0.18007762}, 'model_name': 'Gemma2-9b-It', 'system_fingerprint': 'fp_10c08bf97d', 'finish_reason': 'stop', 'logprobs': None}, id='run-26aca7ce-41c3-49e8-af08-785c90845fb9-0', usage_metadata={'input_tokens': 19, 'output_tokens': 99, 'total_tokens': 118})]), 'chat_3': InMemoryChatMessageHistory(messages=[HumanMessage(content='Hi my name is Rakesh and I am a French', additional_kwargs={}, response_metadata={}), AIMessage(content="Bonjour Rakesh! \n\nIt's nice to meet you.  \n\nIs there anything you'd like to talk about today? Perhaps you want to practice your French, or maybe you have a question about France?  😊 \n\n", additional_kwargs={}, response_metadata={'token_usage': {'completion_tokens': 52, 'prompt_tokens': 20, 'total_tokens': 72, 'completion_time': 0.094545455, 'prompt_time': 8.846e-05, 'queue_time': 0.023395109, 'total_time': 0.094633915}, 'model_name': 'Gemma2-9b-It', 'system_fingerprint': 'fp_10c08bf97d', 'finish_reason': 'stop', 'logprobs': None}, id='run-abb566f7-7f82-49e1-ad32-29e90fd1dc26-0', usage_metadata={'input_tokens': 20, 'output_tokens': 52, 'total_tokens': 72})])}
